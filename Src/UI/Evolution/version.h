@@ -1,0 +1,21 @@
+// Copyright (c) Lobo Lab (lobo@umbc.edu)
+// All rights reserved.
+
+#pragma once
+
+#define V_MAYORVERSION		0
+#define V_MINORVERSION		1
+#define V_BUGFIXVERSION		0
+//#define V_BUILDVERSION		0
+
+#define V_COMPANYNAME		"LoboLab\0"
+
+#define V_FILEDESCRIPTION	"Evolution\0"
+
+#define STRINGIFY(x) #x
+#define TOSTRING(x) STRINGIFY(x)
+
+#define V_PRODUCTVERSION	"v" TOSTRING(V_MAYORVERSION) "." TOSTRING(V_MINORVERSION) "." TOSTRING(V_BUGFIXVERSION)
+#define V_LEGALCOPYRIGHT	"Lobo Lab (lobo@umbc.edu). All rights reserved.\0"
+#define V_ORIGINALFILENAME	"Evolution.exe\0"
+#define V_PRODUCTNAME		"Evolution\0"
