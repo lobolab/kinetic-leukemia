@@ -1,10 +1,7 @@
 # Inference and Simulation of AML Disease Progression Models
 
-Supplementary Data for:
-
-> Discovery of Dynamic Models for AML Disease Progression from Longitudinal Multi-Modal Clinical Data Using Explainable Machine Learning
+Reza Mousavi, Moaath K. Mustafa Ali, and Daniel Lobo
 <br>
-> Reza Mousavi, Moaath K. Mustafa Ali, and Daniel Lobo<br>
 
 
 ## Building
